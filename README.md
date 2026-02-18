@@ -6,7 +6,7 @@ Construyo productos digitales con foco en **experiencia de usuario**, **arquitec
 
 ---
 
-## 🤖 Arquitectura Multi-Agente — 
+## 🤖 Arquitectura Multi-Agente  
 
 Diseño e implemento sistemas donde múltiples agentes de IA colaboran, se delegan tareas y se corrigen entre sí de forma autónoma. Una de las habilidades más demandadas del mercado tech en 2025/2026.
 
@@ -44,17 +44,17 @@ Diseño e implemento sistemas donde múltiples agentes de IA colaboran, se deleg
 
 **Patrones implementados:**
 - 🧠 **Memoria compartida** entre agentes via `AgentContext` (store centralizado)
-- 🔄 **Loop de ejecución dinámico** — el Planner decide en runtime qué agentes correr y en qué orden
-- ✅ **Autocorrección** — el Critic revisa la calidad y reescribe si no es suficiente
-- 🔀 **Fallback inteligente** — modo `DEMO_MODE` sin consumir tokens API para portfolio
-- ⚡ **Serverless** — endpoint `/api/generate-reading.js` deployado como Vercel Function
-- 🔐 **Variables de entorno seguras** — `ANTHROPIC_API_KEY` nunca expuesta al frontend
+- 🔄 **Loop de ejecución dinámico** - el Planner decide en runtime qué agentes correr y en qué orden
+- ✅ **Autocorrección** - el Critic revisa la calidad y reescribe si no es suficiente
+- 🔀 **Fallback inteligente** - modo `DEMO_MODE` sin consumir tokens API para portfolio
+- ⚡ **Serverless** - endpoint `/api/generate-reading.js` deployado como Vercel Function
+- 🔐 **Variables de entorno seguras** - `ANTHROPIC_API_KEY` nunca expuesta al frontend
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 🔮 [Arcana Mística](https://github.com/AndyV01/arcana-mystica) — [LIVE DEMO](https://arcana-mystica.vercel.app)
+### 🔮 [Arcana Mística](https://github.com/AndyV01/arcana-mystica) - [LIVE DEMO](https://arcana-mystica.vercel.app)
 
 App de Tarot con **sistema multi-agente de IA** real integrado. Las interpretaciones son generadas por 3 agentes especializados que planifican, ejecutan y se autocorrigen usando **Claude 3 Haiku** via Anthropic API en una Serverless Function de Vercel.
 
@@ -113,10 +113,10 @@ Portfolio profesional con SSR y optimización de imágenes.
 
 ## 🌱 Aprendiendo ahora
 
-- **Arquitecturas Multi-Agente** — orquestación, memoria compartida, autocorrección
-- **LangChain / LangGraph** — frameworks para pipelines de agentes complejos
-- **RAG** — sistemas con conocimiento externo y memoria a largo plazo
-- **TypeScript avanzado** — tipos genéricos y patrones de diseño
+- **Arquitecturas Multi-Agente** - orquestación, memoria compartida, autocorrección
+- **LangChain / LangGraph** - frameworks para pipelines de agentes complejos
+- **RAG** - sistemas con conocimiento externo y memoria a largo plazo
+- **TypeScript avanzado** - tipos genéricos y patrones de diseño
 
 ---
 
@@ -129,7 +129,7 @@ Portfolio profesional con SSR y optimización de imágenes.
 
 <div align="center">
 
-*"El código es poesía — cada función una estrofa, cada proyecto una historia."*
+*"El código es poesía - cada función una estrofa, cada proyecto una historia."*
 
 ⭐ Si algún proyecto te sirvió, un star hace la diferencia
 
