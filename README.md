@@ -99,20 +99,6 @@ Portfolio profesional con SSR y optimización de imágenes.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AndyV01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0015&title_color=c084fc&icon_color=a855f7&text_color=e8d5ff" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyV01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0015&title_color=c084fc&text_color=e8d5ff" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🌱 Aprendiendo ahora
 
 - **Arquitecturas Multi-Agente** - orquestación, memoria compartida, autocorrección
