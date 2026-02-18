@@ -9,7 +9,7 @@ Construyo productos digitales con foco en **experiencia de usuario**, **arquitec
 ## 🤖 Arquitectura Multi-Agente  
 
 Diseño e implemento sistemas donde múltiples agentes de IA colaboran, se delegan tareas y se corrigen entre sí de forma autónoma.
-ha
+
 ```
          ┌──────────────────────────────────────┐
          │          ORQUESTADOR PRINCIPAL        │
