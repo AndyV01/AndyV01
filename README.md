@@ -6,7 +6,7 @@ Construyo productos digitales con foco en **experiencia de usuario**, **arquitec
 
 ---
 
-## 🤖 Arquitectura Multi-Agente — Lo que me diferencia
+## 🤖 Arquitectura Multi-Agente — 
 
 Diseño e implemento sistemas donde múltiples agentes de IA colaboran, se delegan tareas y se corrigen entre sí de forma autónoma. Una de las habilidades más demandadas del mercado tech en 2025/2026.
 
