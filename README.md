@@ -68,7 +68,7 @@ App de Tarot con **sistema multi-agente de IA** real integrado. Las interpretaci
 ### 🤖 [Job Assistant AI](https://github.com/AndyV01/job-assistant-ai)
 Sistema multi-agente con RAG para optimización de búsqueda laboral. Backend Python + FastAPI, Frontend React, deployado en Railway y Vercel.
 
-**Stack:** Python | FastAPI | LangChain | ChromaDB | Llama 3.2 | React | Vite | TailwindCSS
+ `Python` `FastAPI` `LangChain` `ChromaDB` `Llama 3.2` `React` `Vite` `TailwindCSS`
 
 🔗 [Repo](https://github.com/AndyV01/job-assistant-ai) | 🌐 [Demo](https://job-assistant-ai-andyvalls-projects.vercel.app)
 
