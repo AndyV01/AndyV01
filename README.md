@@ -98,9 +98,8 @@ Portfolio profesional con SSR y optimización de imágenes.
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge&logo=vectorworks&logoColor=white)
+![LLMToolCalling](https://img.shields.io/badge/LLM_Tool_Calling-7B61FF?style=for-the-badge&logoColor=white)
 
 
 **Backend & Deploy**
@@ -108,6 +107,7 @@ Portfolio profesional con SSR y optimización de imágenes.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
@@ -115,7 +115,7 @@ Portfolio profesional con SSR y optimización de imágenes.
 
 - **Arquitecturas Multi-Agente** - orquestación, memoria compartida, autocorrección
 - **LangChain / LangGraph** - frameworks para pipelines de agentes complejos
-- **RAG** - sistemas con conocimiento externo y memoria a largo plazo
+- **LLM Tool Calling** - agentes con tools reales via LangChain + Groq
 - **TypeScript avanzado** - tipos genéricos y patrones de diseño
 
 ---
