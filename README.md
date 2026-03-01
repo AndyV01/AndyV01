@@ -68,9 +68,9 @@ App de Tarot con **sistema multi-agente de IA** real integrado. Las interpretaci
 ### 🤖 [Job Assistant AI](https://github.com/AndyV01/job-assistant-ai)
 Sistema multi-agente con RAG para optimización de búsqueda laboral. Backend Python + FastAPI, Frontend React, deployado en Railway y Vercel.
 
- `Python` `FastAPI` `LangChain` `ChromaDB` `Llama 3.2` `React` `Vite` `TailwindCSS`
+ `Python` `FastAPI` `LangChain` `Groq API` `Adzuna API` `React` `Vite` `TailwindCSS`
 
-🔗 [Repo](https://github.com/AndyV01/job-assistant-ai) | 🌐 [Demo](https://job-assistant-ai-andyvalls-projects.vercel.app)
+🔗 [Repo](https://github.com/AndyV01/job-assistant-ai) | 🌐 [Demo](https://job-assistant-ai-tzle.vercel.app/)
 
 ### 🛒 [E-Commerce React](https://github.com/AndyV01/E-commerce_React)
 Tienda online completa con carrito, filtros y gestión de estado.
@@ -99,7 +99,7 @@ Portfolio profesional con SSR y optimización de imágenes.
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge&logo=vectorworks&logoColor=white)
 
 
