@@ -68,7 +68,7 @@ App de Tarot con **sistema multi-agente de IA** real integrado. Las interpretaci
 ### 🤖 [Job Assistant AI](https://github.com/AndyV01/job-assistant-ai)
 Sistema multi-agente con LLM tool calling real (Groq + LangChain), CV Optimizer y datos reales via Adzuna API. Backend Python + FastAPI, Frontend React, deployado en Railway y Vercel.
 
- `Python` `FastAPI` `LangChain` `Groq API` `Adzuna API` `React` `Vite` `TailwindCSS`
+ `Python` `FastAPI` `LangChain` `LagGraph` `Groq API` `RAG` `Adzuna API` `React` `Vite` `TailwindCSS`
 
 🔗 [Repo](https://github.com/AndyV01/job-assistant-ai) | 🌐 [Demo](https://job-assistant-ai-tzle.vercel.app/)
 
