@@ -97,7 +97,9 @@ Portfolio profesional con SSR y optimización de imágenes.
 ![Anthropic](https://img.shields.io/badge/Anthropic_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) 
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-4B8BBE?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FAISS%20%2B%20Embeddings-00ADD8?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![LLMToolCalling](https://img.shields.io/badge/LLM_Tool_Calling-7B61FF?style=for-the-badge&logoColor=white)
 
