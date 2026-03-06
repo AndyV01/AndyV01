@@ -66,7 +66,7 @@ App de Tarot con **sistema multi-agente de IA** real integrado. Las interpretaci
 - ⚡ Vercel Serverless Function con API key segura en variables de entorno
 
 ### 🤖 [Job Assistant AI](https://github.com/AndyV01/job-assistant-ai)
-Sistema multi-agente con LLM tool calling real (Groq + LangChain), CV Optimizer y datos reales via Adzuna API. Backend Python + FastAPI, Frontend React, deployado en Railway y Vercel.
+Sistema multi-agente con LLM tool calling real (Groq + LangChain), LangGraph StateGraph con memoria persistente y retry logic, CV Optimizer con RAG real (FAISS + Embeddings) y datos reales via Adzuna API. Backend Python + FastAPI, Frontend React, deployado en Railway y Vercel.
 
  `Python` `FastAPI` `LangChain` `LagGraph` `Groq API` `RAG` `Adzuna API` `React` `Vite` `TailwindCSS`
 
