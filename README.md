@@ -118,7 +118,6 @@ Portfolio profesional con SSR y optimización de imágenes.
 - **Arquitecturas Multi-Agente** - orquestación, memoria compartida, autocorrección
 - **LangChain / LangGraph** - frameworks para pipelines de agentes complejos
 - **LLM Tool Calling** - agentes con tools reales via LangChain + Groq
-- **TypeScript avanzado** - tipos genéricos y patrones de diseño
 
 ---
 
