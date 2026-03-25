@@ -134,6 +134,9 @@ Portfolio profesional con SSR y optimización de imágenes.
 
 ⭐ Si algún proyecto te sirvió, un star hace la diferencia
 
+<img width="864" height="1184" alt="Gemini_Generated_Image_c52ez5c52ez5c52e" src="https://github.com/user-attachments/assets/d615ff4a-cf0a-46d1-89da-040658953f78" />
+
+
 </div>
 
 <!--
