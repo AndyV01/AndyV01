@@ -29,16 +29,15 @@ Diseño e implemento sistemas donde múltiples agentes de IA colaboran, se deleg
    └────────────┘ └────────────┘ └────────────┘
                          │
                   ┌──────▼──────┐
-                  │ AgentContext │
-                  │  (memoria    │
-                  │ compartida)  │
+                  │ AgentContext│
+                  │  (memoria   │
+                  │ compartida) │
                   └──────┬──────┘
                          │
                 ┌────────▼────────┐
-                │  Claude 3 Haiku  │
-                │  Anthropic API   │
-                │  via Serverless  │
-                │  Vercel Function │
+                │     Groq API    │
+                │  via Serverless │
+                │ Vercel Function │
                 └─────────────────┘
 ```
 
@@ -48,7 +47,7 @@ Diseño e implemento sistemas donde múltiples agentes de IA colaboran, se deleg
 - ✅ **Autocorrección** - el Critic revisa la calidad y reescribe si no es suficiente
 - 🔀 **Fallback inteligente** - modo `DEMO_MODE` sin consumir tokens API para portfolio
 - ⚡ **Serverless** - endpoint `/api/generate-reading.js` deployado como Vercel Function
-- 🔐 **Variables de entorno seguras** - `ANTHROPIC_API_KEY` nunca expuesta al frontend
+- 🔐 **Variables de entorno seguras** - `GROQ_API_KEY` nunca expuesta al frontend
 
 ---
 
