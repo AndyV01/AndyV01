@@ -58,7 +58,7 @@ Diseño e implemento sistemas donde múltiples agentes de IA colaboran, se deleg
 
 App de Tarot con **sistema multi-agente de IA** real integrado. Las interpretaciones son generadas por 6 agentes especializados que planifican, ejecutan y se autocorrigen usando **Groq API (Llama 3.3)** en una Serverless Function de Vercel.
 
-`React 18` `Vite 5` `Multi-Agent AI` `Anthropic API` `Serverless` `Node.js` `i18n EN/ES`
+`React 18` `Vite 5` `Multi-Agent AI` `Groq API` `Serverless` `Node.js` `i18n EN/ES`
 
 - 🤖 Orquestador + 6 agentes (Planner · Prompt · Critic · Hook · Memory · Rag ) con contexto compartido
 - 🔮 78 cartas, 4 tiradas, flip 3D, numerología y zodíaco personalizado
