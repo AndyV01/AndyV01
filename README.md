@@ -56,11 +56,11 @@ Diseño e implemento sistemas donde múltiples agentes de IA colaboran, se deleg
 
 ### 🔮 [Arcana Mística](https://github.com/AndyV01/arcana-mystica) - [LIVE DEMO](https://arcana-mystica.vercel.app)
 
-App de Tarot con **sistema multi-agente de IA** real integrado. Las interpretaciones son generadas por 3 agentes especializados que planifican, ejecutan y se autocorrigen usando **Claude 3 Haiku** via Anthropic API en una Serverless Function de Vercel.
+App de Tarot con **sistema multi-agente de IA** real integrado. Las interpretaciones son generadas por 6 agentes especializados que planifican, ejecutan y se autocorrigen usando **Groq API (Llama 3.3)** en una Serverless Function de Vercel.
 
 `React 18` `Vite 5` `Multi-Agent AI` `Anthropic API` `Serverless` `Node.js` `i18n EN/ES`
 
-- 🤖 Orquestador + 3 agentes (Planner · Prompt · Critic) con contexto compartido
+- 🤖 Orquestador + 6 agentes (Planner · Prompt · Critic · Hook · Memory · Rag ) con contexto compartido
 - 🔮 78 cartas, 4 tiradas, flip 3D, numerología y zodíaco personalizado
 - 🌟 Carta del día · Horóscopo semanal · Diario persistente · Tarjeta para compartir
 - ⚡ Vercel Serverless Function con API key segura en variables de entorno
