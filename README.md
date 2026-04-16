@@ -10,47 +10,6 @@ Construyo productos digitales con foco en **experiencia de usuario**, **arquitec
 
 Diseño e implemento sistemas donde múltiples agentes de IA colaboran, se delegan tareas y se corrigen entre sí de forma autónoma.
 
-```
-         ┌──────────────────────────────────────┐
-         │          ORQUESTADOR PRINCIPAL        │
-         │           orchestrator.js             │
-         │   planifica → ejecuta → valida        │
-         └───────────────┬──────────────────────┘
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-   ┌────────────┐ ┌────────────┐ ┌────────────┐
-   │  PLANNER   │ │   PROMPT   │ │   CRITIC   │
-   │   AGENT    │ │   AGENT    │ │   AGENT    │
-   │            │ │            │ │            │
-   │ Estructura │ │ Construye  │ │ Evalúa y   │
-   │ el plan de │ │ el prompt  │ │ mejora la  │
-   │ pasos      │ │ dinámico   │ │ respuesta  │
-   └────────────┘ └────────────┘ └────────────┘
-                         │
-                  ┌──────▼──────┐
-                  │ AgentContext│
-                  │  (memoria   │
-                  │ compartida) │
-                  └──────┬──────┘
-                         │
-                ┌────────▼────────┐
-                │     Groq API    │
-                │  via Serverless │
-                │ Vercel Function │
-                └─────────────────┘
-```
-
-**Patrones implementados:**
-- 🧠 **Memoria compartida** entre agentes via `AgentContext` (store centralizado)
-- 🔄 **Loop de ejecución dinámico** - el Planner decide en runtime qué agentes correr y en qué orden
-- ✅ **Autocorrección** - el Critic revisa la calidad y reescribe si no es suficiente
-- 🔀 **Fallback inteligente** - modo `DEMO_MODE` sin consumir tokens API para portfolio
-- ⚡ **Serverless** - endpoint `/api/generate-reading.js` deployado como Vercel Function
-- 🔐 **Variables de entorno seguras** - `GROQ_API_KEY` nunca expuesta al frontend
-
----
-
 ## 🚀 Proyectos Destacados
 
 ### 🔮 [Arcana Mística](https://github.com/AndyV01/arcana-mystica) - [LIVE DEMO](https://arcana-mystica.vercel.app)
