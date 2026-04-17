@@ -52,16 +52,16 @@ Portfolio profesional con SSR y optimización de imágenes.
 
 **IA & Agentes**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) 
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-FF6B6B?style=for-the-badge&logoColor=white)
+![LLM Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-7B61FF?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_FAISS-00ADD8?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![LLMToolCalling](https://img.shields.io/badge/LLM_Tool_Calling-7B61FF?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B6B?style=for-the-badge&logoColor=white)
 
 
 **Backend & Deploy**
@@ -69,6 +69,7 @@ Portfolio profesional con SSR y optimización de imágenes.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
