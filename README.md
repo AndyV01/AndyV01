@@ -1,6 +1,6 @@
 # Hola, soy Andres Vallarino 👋
 
-### Desarrollador Frontend & AI Engineer · Buenos Aires, Argentina 🇦🇷
+### Desarrollador FullStack & AI Engineer · Buenos Aires, Argentina 🇦🇷
 
 Construyo productos digitales con foco en **experiencia de usuario**, **arquitecturas modernas** y las últimas prácticas de **Inteligencia Artificial**. Me especializo en React, pero lo que realmente me diferencia es la integración de **sistemas multi-agente de IA** en aplicaciones reales deployadas en producción.
 
